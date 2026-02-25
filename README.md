@@ -26,7 +26,7 @@ The project includes structured software testing processes covering both functio
 - Microsoft Excel – Test Case management (STLC-based)  
 - Browsers: Chrome, Firefox, Edge, Safari  
 - iOS mobile device for mobile application testing
-
+---
 # 🌐 Web Application Testing (apk-rks.net)
 
 ## 1️⃣ Functional Testing
