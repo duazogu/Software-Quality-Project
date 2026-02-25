@@ -1,4 +1,11 @@
 # Software Testing Project 
+## Disclaimer
+
+This project was conducted strictly for academic purposes.
+All testing was performed using publicly accessible interfaces.
+No exploitation or unauthorized access was attempted.
+The findings are documented for educational and quality improvement purposes only.
+
 ## Web & Mobile Application Testing  
 
 ## 📌 About the Project
