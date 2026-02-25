@@ -18,7 +18,7 @@ The project includes structured software testing processes covering both functio
 - Assess security mechanisms  
 - Test usability and user experience  
 - Document findings professionally  
----
+
 ## 🛠 Tools & Technologies Used
 
 - Apache JMeter – Load & Stress Testing  
@@ -26,7 +26,7 @@ The project includes structured software testing processes covering both functio
 - Microsoft Excel – Test Case management (STLC-based)  
 - Browsers: Chrome, Firefox, Edge, Safari  
 - iOS mobile device for mobile application testing
----
+
 # 🌐 Web Application Testing (apk-rks.net)
 
 ## 1️⃣ Functional Testing
